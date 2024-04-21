@@ -29,7 +29,7 @@ Not as of right now. At this rate, I don't see it happening but I don't think it
 They are obsolete so I don't really see a point.
 
 Q:
-"What about KFD? Wil you ever make it work?"
+"What about KFD? Will you ever make it work?"
 
 A:
 Yeah, it's planned to make it work in the future. This should help spring boarding into iOS 16 support later. (Might not happen)

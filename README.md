@@ -17,12 +17,14 @@ After that, I (rebeldisc) will stop with open-source. This fork does not have al
 Q:
 "I am not a part of the Rebellious Developer Program, Should I use this?"
 A:
-Hell no, so far this project has caused around 7 bootloops by several people. It's not worth messing with if you don't know what your doing.
+Hell no, so far this project has caused around 7 bootloops by several people. (didn't know what they were doing)
+It's not worth messing with if you don't know what your doing.
 
 Q:
 "Will you ever add support for Arm64 devices?"
 A:
 Not as of right now. At this rate, I don't see it happening but I don't think it's impossible.
+They are obsolete so I don't really see a point.
 
 Q:
 "What about KFD? Wil you ever make it work?"

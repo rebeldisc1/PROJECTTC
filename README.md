@@ -1,14 +1,19 @@
 # Fugu15_rootful
 
 Code has not been updated yet. Please Hold.
+After May 17th if I have not figured out this issue I will be discontinuing this project.
 
 What does this fork fix?
 
 * Fixes RootFS (root pivoting - Replaced with mountrfs)
 
+  - This fork is missing my other bug fixes as well. 
+
 Plans:
 
 ProjectTC will hopefully fix this TC loading issue. Shouldn't be too "Trivial" but hopefully this will be the end all, be all.
+
+This should be a easy fix by using the Fugu15 Max trustcache regeneration code to easily fix it. This should help me due the the CRAZY lack of resources. 
 
 Planning to automate bootstrapFS by putting a list of the disks into a txt file for mountrfs to read from and automatically bootstrap.
 
